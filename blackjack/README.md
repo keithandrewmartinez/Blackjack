@@ -29,7 +29,7 @@ First attempt at Game Development with JS, HTML, and CSS using flex-box
 4. Hit / Deal extra card
 5. Stay or Hold to evaluate and compare 
 6. Optimize/adjust value of ace from 11 to 1
-7. 
+   
 
 ## Expansion Steps ##
 1. Have Hidden Dealer Card
@@ -42,7 +42,7 @@ dealer forced hit option if under 16 (adjustable to 15 and 17)
 
 ## VALUABLE LESSONS ##
 1. Learning about special functions/methods like reduce to change the Ace from an 11 value card to a 1 if too many 
-2. 
+2. Order of development affects organization and both of them have a tremendous impact on the quality and difficulty of development. 
 
 ## RESOURCES & CREDITS ##
 

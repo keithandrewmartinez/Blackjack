@@ -1,0 +1,96 @@
+
+
+
+
+* {
+    margin: 100;
+}
+
+nav {
+        display: flex;
+        height: 50px;
+        background-color: #a2cbb6;
+        font-size: 30px;
+        margin: 10 px;
+
+
+}
+
+/* nav > div {
+    font-size: 20px;
+    margin: 10px;
+    color: #f3dba8;
+
+} */
+
+.container {
+    background-color: green;
+    height: 100vh;
+    display: flex;
+
+    /* justify-content: flex-end; */
+    /* justify-content: center; */
+    align-items: center; 
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(9, 102, 9);
+}
+
+#dealer-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 10px;
+}
+
+
+#player-cards img {
+    height: 175px;
+    width: 125px;
+    margin: 10px;
+}
+
+#hit {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#stay {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#bet {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+/* #results {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+} */
+
+
+
+
+
+/* 
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: #bada55;
+    margin: 10px;
+    font-size: 20px;
+    display: flex;
+} */

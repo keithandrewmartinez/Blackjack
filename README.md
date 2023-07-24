@@ -4,6 +4,11 @@
 
 First attempt at Game Development with JS, HTML, and CSS using flex-box
 
+## TECH STACK ##
+1. HTML
+2. CSS w/ flexbox
+3. JavaScript
+
 ## FEATURES ##
 
 1. Casino-stakes excitement at the leisure and recreation of your home--mobile device playable too!!
@@ -64,3 +69,11 @@ https://www.youtube.com/watch?v=bMYCWccL-3U
 
 
 5. https://code-boxx.com/javascript-blackjack/
+
+I am Keith Andrew Martinez, a student developer learning to code, and hopefully, eventually, be able to teach and help others to do the same. 
+Feel free to follow, star, or hit me up with suggestions or criticism as you like -- ALL are welcome!
+Cheers!
+
+https://github.com/keithandrewmartinez/
+
+

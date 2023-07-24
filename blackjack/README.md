@@ -4,6 +4,11 @@
 
 First attempt at Game Development with JS, HTML, and CSS using flex-box
 
+## TECH STACK ##
+1. HTML
+2. CSS w/ flexbox
+3. JavaScript
+
 ## FEATURES ##
 
 1. Casino-stakes excitement at the leisure and recreation of your home--mobile device playable too!!
@@ -29,7 +34,7 @@ First attempt at Game Development with JS, HTML, and CSS using flex-box
 4. Hit / Deal extra card
 5. Stay or Hold to evaluate and compare 
 6. Optimize/adjust value of ace from 11 to 1
-   
+7. 
 
 ## Expansion Steps ##
 1. Have Hidden Dealer Card
@@ -42,7 +47,7 @@ dealer forced hit option if under 16 (adjustable to 15 and 17)
 
 ## VALUABLE LESSONS ##
 1. Learning about special functions/methods like reduce to change the Ace from an 11 value card to a 1 if too many 
-2. Order of development affects organization and both of them have a tremendous impact on the quality and difficulty of development. 
+2. 
 
 ## RESOURCES & CREDITS ##
 
@@ -57,8 +62,18 @@ dealer forced hit option if under 16 (adjustable to 15 and 17)
 Kenny Yip Coding
 https://www.youtube.com/watch?v=bMYCWccL-3U
 
+
 3. https://www.thatsoftwaredude.com/content/6417/how-to-code-blackjack-using-javascript
 
 4. https://math.hws.edu/eck/cs271/js-work/Blackjack.html
 
+
 5. https://code-boxx.com/javascript-blackjack/
+
+I am Keith Andrew Martinez, a student developer learning to code, and hopefully, eventually, be able to teach and help others to do the same. 
+Feel free to follow, star, or hit me up with suggestions or criticism as you like -- ALL are welcome!
+Cheers!
+
+https://github.com/keithandrewmartinez/
+
+

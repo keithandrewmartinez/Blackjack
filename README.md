@@ -26,7 +26,10 @@ First attempt at Game Development with JS, HTML, and CSS using flex-box
 1. Create a deck
 2. Shuffle it
 3. Deal cards to the dealer and the player
-4. 5. Optimize/adjust value of ace from 11 to 1
+4. Hit / Deal extra card
+5. Stay or Hold to evaluate and compare 
+6. Optimize/adjust value of ace from 11 to 1
+7. 
 
 ## Expansion Steps ##
 1. Have Hidden Dealer Card
@@ -38,7 +41,7 @@ dealer forced hit option if under 16 (adjustable to 15 and 17)
 
 
 ## VALUABLE LESSONS ##
-1. special functions like reduce
+1. Learning about special functions/methods like reduce to change the Ace from an 11 value card to a 1 if too many 
 2. 
 
 ## RESOURCES & CREDITS ##

@@ -1,4 +1,4 @@
-#### BLACKJACK ####
+# BLACKJACK #
 
 ## ABOUT ##
 
@@ -21,14 +21,14 @@ First attempt at Game Development with JS, HTML, and CSS using flex-box
 6. Reset the game and reshuffle the cards by pushing the refresh button (if it ain't broke, why fix it?! kidding... added functionality to be added in future editions. STAY TUNED!!)
 
 
-## BUILD STEPS
+## BUILD STEPS ##
 
 1. Create a deck
 2. Shuffle it
 3. Deal cards to the dealer and the player
 4. 5. Optimize/adjust value of ace from 11 to 1
 
-##Expansion Steps
+## Expansion Steps ##
 1. Have Hidden Dealer Card
 2. Keep running sum of each hand
 dealer forced hit option if under 16 (adjustable to 15 and 17)
@@ -41,9 +41,14 @@ dealer forced hit option if under 16 (adjustable to 15 and 17)
 1. special functions like reduce
 2. 
 
-## RESOURCES ##
-1. (StepbyStep) https://scrimba.com/playlist/p3py7U7
+## RESOURCES & CREDITS ##
 
+* FIRST AND FOREMOST*
+* THE EXCELLENT TUTELAGE OF Colton Wright AND Abraham E. Tavarez ---SUPREME STUFF!! *
+* 
+** ADDITIONAL SUPPORT FROM **
+  
+1. (StepbyStep) https://scrimba.com/playlist/p3py7U7
 
 2. (VIDEO) Code Blackjack with JavaScript HTML CSS
 Kenny Yip Coding
